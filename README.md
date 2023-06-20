@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Weather app](https://github.com/KitsuneAkvma/Weather-App)
 
-- 🌱 I’m currently learning **Typescript and material UI and pixelart**
+- 🌱 I’m currently learning **Typescript, material UI and pixelart**
 
 - 👯 I’m looking to collaborate on **something interesting !**
 
@@ -24,31 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kitsuneakvma&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kitsuneakvma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kitsuneakvma&show_icons=true&theme=tokyonight&locale=en" alt="kitsuneakvma" /></p>
-
-# Projects 
-## HTML & CSS
-- [WebStudio](https://github.com/KitsuneAkvma/WebStudio) ([demo](https://kitsuneakvma.github.io/WebStudio/))
-- [IceCream-shop](https://github.com/KitsuneAkvma/IceCream-shop) [teamwork] ([demo](https://kitsuneakvma.github.io/IceCream-shop/))
-## JS
-- [ImaGo](https://github.com/KitsuneAkvma/ImaGo) ([demo](https://kitsuneakvma.github.io/ImaGo/))
-- [Filmoteka](https://github.com/KitsuneAkvma/Filmoteka) [teamwork] ([demo](https://kitsuneakvma.github.io/Filmoteka/))
-- [country-finder](https://github.com/KitsuneAkvma/country-finder) ([demo](https://github.com/KitsuneAkvma/country-finder))
-- [Stopwatch](https://github.com/KitsuneAkvma/Vanilla-JS-1-Stopwatch), [Clock](https://github.com/KitsuneAkvma/Vanilla-JS-2-Clock), [Calculator](https://github.com/KitsuneAkvma/Vanilla-JS-3-Calculator) elements
-## React
-- [Image-Finder](https://github.com/KitsuneAkvma/Image-Finder) ([demo](https://kitsuneakvma.github.io/Image-Finder/))
-- [Movie-Finder](https://github.com/KitsuneAkvma/Movie-Finder) ([demo](https://kitsuneakvma.github.io/Movie-Finder/))
-## Node
-- [CLI Phonebook](https://github.com/KitsuneAkvma/CLI-Phonebook) 
-- [Contacts-API ](https://github.com/KitsuneAkvma/Contacts-API)
-## Fullstack
-- [Weather-App](https://github.com/KitsuneAkvma/Weather-App) [WIP, TS] (~~demo~~)
-- [Wallet App](https://github.com/KitsuneAkvma/wallet) [teamwork] ([demo](https://wallet-app-g3.netlify.app/))
-
-
-
-
-
-
 
 
 
