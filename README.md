@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Weather app](https://github.com/KitsuneAkvma/Weather-App)
+- 🔭 I’m currently working on [Weather app](https://github.com/KitsuneAkvma/Weather-App) & First commercial project!
 
 - 🌱 I’m currently learning **Typescript, material UI and pixelart**
 
