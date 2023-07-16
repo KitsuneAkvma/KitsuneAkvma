@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Weather app](https://github.com/KitsuneAkvma/Weather-App) & First commercial project!
 
-- 🌱 I’m currently learning **Next.js** & **SQL**
+- 🌱 I’m currently learning **Vue.js** & **SQL**
 
 - 👯 I’m looking to collaborate on **something interesting !**
 
