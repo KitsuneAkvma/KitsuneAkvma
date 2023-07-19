@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Weather app](https://github.com/KitsuneAkvma/Weather-App) & First commercial project!
+- 🔭 I’m currently working on [Job tracker app](https://github.com/KitsuneAkvma/job-tracker) & First commercial project!
 
 - 🌱 I’m currently learning **Vue.js** & **SQL**
 
