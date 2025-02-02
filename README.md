@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm <img src="Goofy a text .png" alt="Akuma written as goofy text" width=200></h1>
-<h3 align="center">A fulltack developer from Poland</h3>
+<h1 align="center">Hi 👋, I'm ΛKVMΛ</h1>
+<h3 align="center">Torn between machines and algorithms — so I build both.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kitsuneakvma&label=Profile%20views&color=0e75b6&style=flat" alt="kitsuneakvma" /> </p>
 
 
 
-- 🔭 Exploring Information theory concepts and Machine learning 🙄
+- 🔭 Exploring Information theory concepts and Machine learning 😶‍🌫️
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently writing *Python* like it’s poetry. Debugging like it’s a war...
 
-- 👯 I’m looking to collaborate on Fullstack and python projects
+- 💡 Got an idea in Python or JS? Let’s break things and fix them together🤫
 
-- 📫 How to reach me **mateusz.r.martin@gmail.com**
+- 📫 How to reach me **mateusz.r.martin@gmail.com** or **discord**#kitsuneakuma
   
-#
 
 <h3 align="left">Tech and Tools:</h3>
 
@@ -107,4 +106,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
   </a>
 </div>
-
