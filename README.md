@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on [Job tracker app](https://github.com/KitsuneAkvma/job-tracker) & First commercial project!
+- 🔭 Exploring Information theory concepts and Machine learning 🙄
 
-- 🌱 I’m currently learning **Vue.js** & **SQL**
+- 🌱 I’m currently learning **python**
 
-- 👯 I’m looking to collaborate on **something interesting !**
+- 👯 I’m looking to collaborate on Fullstack and python projects
 
 - 📫 How to reach me **mateusz.r.martin@gmail.com**
   
